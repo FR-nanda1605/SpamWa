@@ -1,6 +1,6 @@
 # SpamWa
 
-Selalu suport gw y, dg kasih bintang dan whact nya
+Selalu suport gw y, dg kasih bintang dan wacht nya
 
 Cara penginstalan..... 
 

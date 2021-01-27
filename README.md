@@ -8,7 +8,7 @@ $pkg update && pkg upgrade
 
 $pkg install git python
 
-$git clone https://github.com/FR-nanda1605/Spamwa
+$git clone https://github.com/FR-nanda1605/SpamWa
 
 $cd SpamWa
 
